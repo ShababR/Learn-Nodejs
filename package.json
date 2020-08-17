@@ -1,0 +1,22 @@
+{
+  "name": "test-nodejs",
+  "version": "1.0.0",
+  "description": "A test directory to learn Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShababR/Learn-Nodejs.git"
+  },
+  "author": "Shabab Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShababR/Learn-Nodejs/issues"
+  },
+  "homepage": "https://github.com/ShababR/Learn-Nodejs#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
